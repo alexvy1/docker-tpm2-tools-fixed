@@ -2,13 +2,13 @@
 
 ## How to build
 
-| docker build -t tpm2-tools  |
-| --- |
+``` docker build -t tpm2-tools  ```
+
 
 ## How to run
 ### Get TPM chip information:
-| docker run --privileged -it tpm2-tools tpm2_getcap properties-fixed |
-| --- |
+``` docker run --privileged -it tpm2-tools tpm2_getcap properties-fixed ```
+
 
 ### Example output on my machine:
 
