@@ -109,5 +109,4 @@ TPM2_PT_NV_BUFFER_MAX:
   raw: 0x800
 TPM2_PT_MODES:
   raw: 0x0
- |
-| --- |
+ || --- |
