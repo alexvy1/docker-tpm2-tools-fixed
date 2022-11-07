@@ -12,7 +12,7 @@
 
 ### Example output on my machine:
 
-> TPM2_PT_FAMILY_INDICATOR:
+``` TPM2_PT_FAMILY_INDICATOR:
   raw: 0x322E3000
   value: "2.0"
 TPM2_PT_LEVEL:
@@ -108,4 +108,4 @@ TPM2_PT_VENDOR_COMMANDS:
 TPM2_PT_NV_BUFFER_MAX:
   raw: 0x800
 TPM2_PT_MODES:
-  raw: 0x0
+  raw: 0x0 ```
