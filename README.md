@@ -1,7 +1,7 @@
 # Latest tpm2-tools from https://github.com/tpm2-software/tpm2-tools/ build inside Docker container.
 
 ## How to build
-"docker build -t tpm2-tools ."
+''docker build -t tpm2-tools ''
 
 ### Example output on my machine:
 TPM2_PT_FAMILY_INDICATOR:
